@@ -25,6 +25,7 @@ abstract class AppTextStyles {
   static const TextStyle bold16 = TextStyle(
     fontWeight: FontWeight.bold,
     fontSize: 16,
+    fontFamily: 'Cairo',
   );
 
   static const TextStyle bold19 = TextStyle(

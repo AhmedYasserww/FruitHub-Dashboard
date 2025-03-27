@@ -45,5 +45,9 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Required image for product that will be uploaded to the database</string>
+    <key>NSCameraUsageDescription</key>
+    <string>required to take a picture</string>
 </dict>
 </plist>
